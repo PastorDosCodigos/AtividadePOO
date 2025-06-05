@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package atividade4;
+
 import java.util.Scanner;
 
 public class Main {
