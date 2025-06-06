@@ -18,10 +18,8 @@ public class Aluno {
 
     @Override
     public String toString() {
-        return "Aluno{" +
-                "nome='" + nome + '\'' +
-                ", idade=" + idade +
-                ", matricula=" + matricula +
-                '}';
+        return "\nNome: " + nome +
+                "\nIdade: " + idade +
+                "\nMatricula: " + matricula;
     }
 }

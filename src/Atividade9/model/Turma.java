@@ -32,10 +32,8 @@ public class Turma {
 
     @Override
     public String toString() {
-        return "Turma{" +
-                "Turma ='" + serieTurma + '\'' +
-                ", professor=" + professor +
-                ", alunos=" + alunos +
-                '}';
+        return "Turma:" + serieTurma +
+                "\nProfessor:" + professor +
+                "\nAlunos:" + alunos;
     }
 }
