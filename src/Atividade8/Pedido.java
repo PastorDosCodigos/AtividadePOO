@@ -1,6 +1,7 @@
 package Atividade8;
 
 public class Pedido {
+
     Produto produto;
     int quantidade;
 

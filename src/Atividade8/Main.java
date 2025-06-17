@@ -2,7 +2,6 @@ package Atividade8;
 
 public class Main {
     public static void main(String[] args){
-
         Produto vinho = new Produto("São Braz", 10.0);
         Pedido pedido1 = new Pedido(vinho, 4);
 

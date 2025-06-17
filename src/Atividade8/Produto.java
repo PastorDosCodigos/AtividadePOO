@@ -1,6 +1,7 @@
 package Atividade8;
 
 public class Produto {
+
     String nome;
     Double preco;
 
