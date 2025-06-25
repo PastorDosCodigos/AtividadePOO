@@ -13,7 +13,7 @@ public class Main {
         System.out.println(a1.getIdade());
         System.out.println(a1.getSemestre());
 
-        System.out.println(" ");
+        System.out.println(" ")
 
         Professor p1 = new Professor("xxxx", "xxx", 00 );
         p1.setIdade(00);
